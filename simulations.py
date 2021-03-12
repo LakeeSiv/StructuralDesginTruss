@@ -31,22 +31,22 @@ ss.solve()
 ---------------------------------------------------"""
 
 """The applied load"""
-ss.show_structure()
+# ss.show_structure(scale=0.6)
 
 """External reactions and bending moments"""
-# ss.show_reaction_force()
+# ss.show_reaction_force(scale=0.6)
 
 """Axial Forces"""
-# ss.show_axial_force()
+# ss.show_axial_force(scale=0.6)
 
 """Shear forces"""
-# ss.show_shear_force()
+# ss.show_shear_force(scale=0.6)
 
 """Bending Moments"""
-# ss.show_bending_moment()
+# ss.show_bending_moment(scale=0.6)
 
 """Displacements"""
-# ss.show_displacement()
+# ss.show_displacement(scale=0.6)
 
 """All of the graphs above"""
-# ss.show_results()
+# ss.show_results(scale=0.6)
