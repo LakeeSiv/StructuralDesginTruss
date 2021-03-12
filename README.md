@@ -4,6 +4,6 @@ https://colab.research.google.com/drive/1oowMK3PXN-omfAcKKj94l-li3VYWzrw2?usp=sh
 
 To run the simulations make sure you have `anaStruct` installed,
 ```
-	pip install anastruct
+pip install anastruct
 ```
 
